@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimon-aristotelis-v-5695b7174/) 
 
 # 👻 Fun Projects:
-Cover Letter Creation Using LangChain, Streamlit, and OpenAI API (https://cover-letter-creation.streamlit.app/)
+[Cover Letter Creation Using LangChain, Streamlit, and OpenAI API](https://cover-letter-creation.streamlit.app/)
 https://hub.docker.com/r/kimon24/fast_api_v1_dockerhub 
 
 # 💻 Tech Stack:
