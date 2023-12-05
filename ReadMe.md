@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Data scientist, passionate about ML and DL.<br>🌐 Currently working on full-stack projects with LLMS and vector databases.<br>📊 Passionate about real-world data impact.<br>🎓 Teaching at Harvard.<br>💡 Creative problem solver, entrepreneurial mindset.<br>🚀 Let's explore data science together!
+👨‍💻 Data scientist, passionate about ML and DL.<br>🌐 Currently working on full-stack projects with LLMs and vector databases.<br>📊 Passionate about real-world data impact.<br>🎓 Teaching at Harvard.<br>💡 Creative problem solver, entrepreneurial mindset.<br>🚀 Let's explore data science together!
 
 
 ## 🌐 Socials:
