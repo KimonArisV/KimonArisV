@@ -6,7 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimon-aristotelis-v-5695b7174/) 
 
 # 👻 Fun Projects:
-- [Cover Letter Creation Using LangChain, Streamlit, and OpenAI API](https://cover-letter-creation.streamlit.app/) <br>
+- [Cover letter creation using LangChain, Streamlit, and OpenAI API](https://cover-letter-creation.streamlit.app/) <br>
+- [Digital business card using React, Create React App, Flexbox, CSS, HTML, JS and Vercel]([https://cover-letter-creation.streamlit.app/](https://digital-business-card-qtxaw2z23-kimon-vogt-s-projects.vercel.app/) <br>
 - [Docker Image published on DockerHub for my FastAPI social media project ](https://hub.docker.com/r/kimon24/fast_api_v1_dockerhub) 
 
 # 💻 Tech Stack:
