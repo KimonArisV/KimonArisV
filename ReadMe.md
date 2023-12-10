@@ -7,6 +7,7 @@
 
 # 👻 Fun Projects:
 - [Cover letter creation using LangChain, Streamlit, FAISS, and OpenAI API](https://cover-letter-creation.streamlit.app/) <br>
+- [Tenzies game using React hooks (UseState and useEffect)](https://tenzies-react-kimon.vercel.app/)<br>
 - [Mobile first responsive design of book shop using React,CSS, HTML](https://book-shop-kimon.vercel.app/)<br>
 - [Responsive design of my digital business card using React, Create React App, Flexbox, CSS, HTML, JS and Vercel](https://digital-business-card-kimon-vogt-s-projects.vercel.app/) <br>
 - [Docker Image published on DockerHub for my FastAPI social media project ](https://hub.docker.com/r/kimon24/fast_api_v1_dockerhub)<br>
