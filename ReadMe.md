@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimon-aristotelis-v-5695b7174/) 
 
 # 👻 Fun Projects:
-- [Cover letter creation using LangChain, Streamlit, FAISS, and OpenAI API](https://cover-letter-creation.streamlit.app/) <br>
+- [RAG implementation for cover letter creation using LangChain, Streamlit, FAISS, and OpenAI API](https://cover-letter-creation.streamlit.app/) <br>
 - [HelpTheFellow for Preschoolers v0](helpthefellowpreschoolers.vercel.app) <br>
 - [HelpTheFellow for Preschoolers using Next.js and Tailwind CSS](https://helpthefellow-preschoolers.vercel.app/)<br>
 - [Tenzies game using React hooks (useState and useEffect)](https://tenzies-react-kimon.vercel.app/)<br>
