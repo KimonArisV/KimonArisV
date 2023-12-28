@@ -7,7 +7,7 @@
 
 # 👻 Fun Projects:
 - [RAG implementation for cover letter creation using LangChain, Streamlit, FAISS, and OpenAI API](https://cover-letter-creation.streamlit.app/) <br>
-- [HelpTheFellow for Preschoolers v0](helpthefellowpreschoolers.vercel.app) <br>
+- [HelpTheFellow for Preschoolers v0](https://helpthefellowpreschoolers.vercel.app/) <br>
 - [HelpTheFellow for Preschoolers using Next.js and Tailwind CSS](https://helpthefellow-preschoolers.vercel.app/)<br>
 - [Tenzies game using React hooks (useState and useEffect)](https://tenzies-react-kimon.vercel.app/)<br>
 - [Spotinality: Find out your personality](https://spotinality.vercel.app/)<br>
